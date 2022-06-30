@@ -171,3 +171,12 @@ TypeError: The view function did not return a valid response. The return type mu
 2022-06-29 19:12:22,013 - 127.0.0.1 - - [29/Jun/2022 19:12:22] "GET /traductor?palabra=$pt-hola%20mundo HTTP/1.1" 200 -
 2022-06-29 19:12:51,983 - Palabra:it-hola mundo
 2022-06-29 19:12:51,983 - 127.0.0.1 - - [29/Jun/2022 19:12:51] "GET /traductor?palabra=$it-hola%20mundo HTTP/1.1" 200 -
+2022-06-29 20:12:25,591 -  * Running on http://localhost:5000 (Press CTRL+C to quit)
+2022-06-29 20:12:42,729 - Palabra:fr-hola mundo
+2022-06-29 20:12:42,729 - 127.0.0.1 - - [29/Jun/2022 20:12:42] "GET /traductor?palabra=$fr-hola%20mundo HTTP/1.1" 200 -
+2022-06-29 20:13:13,881 - Palabra:en-norman es gay
+2022-06-29 20:13:13,881 - 127.0.0.1 - - [29/Jun/2022 20:13:13] "GET /traductor?palabra=$en-norman%20es%20gay HTTP/1.1" 200 -
+2022-06-29 20:36:31,779 - Palabra:fr-jeremy gay
+2022-06-29 20:36:31,780 - 127.0.0.1 - - [29/Jun/2022 20:36:31] "GET /traductor?palabra=$fr-jeremy%20gay HTTP/1.1" 200 -
+2022-06-29 20:37:00,211 - Palabra:fr-sexo
+2022-06-29 20:37:00,212 - 127.0.0.1 - - [29/Jun/2022 20:37:00] "GET /traductor?palabra=$fr-sexo HTTP/1.1" 200 -
