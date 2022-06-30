@@ -11,7 +11,7 @@ se instalaran las dependencias necesarias para el correcto funcionamiento de est
 
 ##Descripcion
 El programa se basa en una arquitectura cliente servidor que permitira mutiples conexiones de clientes simultaneamente
-El servidor proveera un servicio el cual sera en este caso la traduccion de frases en español a casi cualquier idioma dependienco del 
+El servidor proveera un servicio el cual sera en este caso la traduccion de frases en español a casi cualquier idioma dependiendo del 
 codigo que se ingrese
 en = english
 fr= french
