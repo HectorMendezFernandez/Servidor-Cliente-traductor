@@ -33,5 +33,7 @@ que se selecciono
 ejm:  <br />
 'fr-Hola Mundo!'  (Se recibira como respuesta 'Salut Monde!') <br />
 'en-Hola Mundo!'  (Se recibira como respuesta 'Hello world!') <br />
-'ja-Hola Mundo!'  (Se recibira como respuesta '「こんにちは世界」')
+'ja-Hola Mundo!'  (Se recibira como respuesta '「こんにちは世界」') <br />
+
+5) Para cerrar la aplicacion del cliente, escribir la palabra <b> 'exit' </b>
 
