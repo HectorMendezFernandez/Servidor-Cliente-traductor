@@ -27,8 +27,8 @@ es = Spanish <br />
 etc...
 
 ## Uso 
-1) Correr la imagen que se descargo para activar el servidor que ofrecera el servicio de traducciones con el comando: <br /> `docker run -p 5000:5000 htrmf/firstimage`
-2) Ejecutar en la consola (bash o cmd) el comando `pip install request`</a>
+1) Ejecutar en la consola (bash o cmd) el comando `pip install request`</a>
+2) Correr la imagen que se descargo para activar el servidor que ofrecera el servicio de traducciones con el comando: <br /> `docker run -p 5000:5000 htrmf/firstimage`
 3) Correr en consola el archivo `client/main.py`    (cliente)
 4) Una vez teniendo el archivo main.py corriendo, usted como cliente debe de insertar una frase o palabra para que realice la traduccion al idioma
 que se selecciono
