@@ -28,14 +28,15 @@ etc...
 
 ## Uso 
 1) Correr la imagen que se descargo para activar el servidor que ofrecera el servicio de traducciones con el comando: <br /> `docker run -p 5000:5000 htrmf/firstimage`
-2) Correr en consola el archivo `client/main.py`    (cliente)
-3) Una vez teniendo el archivo main.py corriendo, usted como cliente debe de insertar una frase o palabra para que realice la traduccion al idioma
+2) Ejecutar en la consola (bash o cmd) el comando `pip install request`</a>
+3) Correr en consola el archivo `client/main.py`    (cliente)
+4) Una vez teniendo el archivo main.py corriendo, usted como cliente debe de insertar una frase o palabra para que realice la traduccion al idioma
 que se selecciono
-4) El formato del mensaje que se le debe de enviar al servidor desde el cliente para realizar la traduccion es 'codIdioma-frase'
+5) El formato del mensaje que se le debe de enviar al servidor desde el cliente para realizar la traduccion es 'codIdioma-frase'
 ejm:  <br />
 'fr-Hola Mundo!'  (Se recibira como respuesta 'Salut Monde!') <br />
 'en-Hola Mundo!'  (Se recibira como respuesta 'Hello world!') <br />
 'ja-Hola Mundo!'  (Se recibira como respuesta '「こんにちは世界」') <br />
 
-5) Para cerrar la aplicacion del cliente, escribir la palabra <b> 'exit' </b>
+6) Para cerrar la aplicacion del cliente, escribir la palabra <b> 'exit' </b>
 
