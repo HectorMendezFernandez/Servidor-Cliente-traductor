@@ -12,7 +12,7 @@ Esta imagen proveera la aplicacion que correra del lado del servidor
 
 Lo segundo descargar este repositorio de git, mas especificamente la carpeta de client que posee el archivo main.py que correra del lado del cliente</a>
 
-Por ultimo ejecutar en la consola el comando `pip install request`</a>
+Por ultimo ejecutar en la consola el comando `pip install request`</a> antes de poner a correr el servidor o el cliente.
 
 ## Descripcion
 El programa se basa en una arquitectura cliente servidor que permitira mutiples conexiones de clientes simultaneamente.
